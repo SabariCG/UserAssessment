@@ -1,0 +1,10 @@
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\HttpHuntGamingAssessment.exe.config
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\HttpHuntGamingAssessment.exe
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\HttpHuntGamingAssessment.pdb
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\obj\Debug\HttpHuntGamingAssessment.csproj.CoreCompileInputs.cache
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\obj\Debug\HttpHuntGamingAssessment.csproj.CopyComplete
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\obj\Debug\HttpHuntGamingAssessment.exe
+C:\Users\sabar\source\repos\HttpHuntGamingAssessment\HttpHuntGamingAssessment\obj\Debug\HttpHuntGamingAssessment.pdb
